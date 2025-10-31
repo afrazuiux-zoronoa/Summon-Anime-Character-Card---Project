@@ -1,0 +1,11 @@
+Profile Data 1- 
+Image url: https://i.pinimg.com/736x/2a/03/21/2a03215824f97997ab328e756a971c69.jpg
+Name: Roronoa Zoro
+Anime Verse: One piece
+Purpose: Greatest Swordsman
+
+Profile Data 2-
+Image url: https://i.pinimg.com/736x/bc/8b/b1/bc8bb101895ed8f2beff898258665942.jpg
+Name: Sasuke Uchiha
+Anime Verse: Naruto Shippuden
+Purpose: Kill Itachi Uchiha
